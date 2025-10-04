@@ -11,6 +11,28 @@ The dataset contains information about telecom customers including:
 - Financial metrics: monthly charges, total charges
 - Target variable: churn (Yes or No)
 
+## Few Following Questions and Answers with Screenshots
+
+* Question 5.  <br>
+ #### Find the average MonthlyCharges for customers grouped by PaymentMethod.
+<img src="https://github.com/omkarshinde25/Telecom-EDA-SQL-Project/blob/main/Screenshot/Question%205..png" width="800"> <br>
+
+* Question 8.  <br>
+ #### Write a query to list customers who are either on Month-to-Month contracts OR who have churned (use UNION).
+<img src="https://github.com/omkarshinde25/Telecom-EDA-SQL-Project/blob/main/Screenshot/Question%208.png" width="800"> <br>
+
+* Question 10.  <br>
+ #### Extract the first 3 letters of the PaymentMethod for all customers.
+<img src="https://github.com/omkarshinde25/Telecom-EDA-SQL-Project/blob/main/Screenshot/Question%2010.png" width="800"> <br>
+
+* Question 15.  <br>
+ #### Create a view to calculate the churn rate for each contract type.
+<img src="https://github.com/omkarshinde25/Telecom-EDA-SQL-Project/blob/main/Screenshot/Question%2015.png" width="800"> <br>
+
+* Question 22.  <br>
+ #### Find the average tenure of customers who use Fiber optic internet vs DSL.
+<img src="https://github.com/omkarshinde25/Telecom-EDA-SQL-Project/blob/main/Screenshot/Question%2022.png" width="800"> <br>
+
 ## Objectives
 1. Understand churn distribution across different customer groups.
 2. Identify which contract types and payment methods have the highest churn.
